@@ -1,0 +1,11 @@
+[gitreview]
+	username = coolsvap
+[user]
+	email = me@coolsvap.net
+	name = Swapnil Kulkarni
+[core]
+	autocrlf = false
+	longpaths = true
+	editor = vim
+[push]
+	default = simple
